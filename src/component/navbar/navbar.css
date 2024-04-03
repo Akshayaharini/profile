@@ -1,0 +1,40 @@
+.navbar{
+  max-width: 1340px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  position: static;
+  z-index: 2;
+ 
+}
+.navbar-border{
+    max-width: 1200px;
+    width: 100%;
+    text-align: left;
+   
+    
+}
+.navbar-border a{
+  text-decoration: none;
+  color: #000;
+  font-size: 25px;
+  font-weight: 500;
+
+}
+.navbar a:hover{
+  color: rgb(250, 19, 96);
+  text-decoration: underline;
+  
+}
+
+button{
+    padding: 10px 30px;
+    margin: 8px;
+    background-color:transparent;
+    color: #000;
+    border:none
+   
+}
+

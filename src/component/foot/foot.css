@@ -1,0 +1,19 @@
+.foot{
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;  
+  }
+  .footer:hover{
+    color:rgb(255, 0, 255)
+  }
+  .footer h3 a{
+      color:rgb(16, 126, 252);
+      text-decoration: none;
+     
+  }
+  .footer h3 a:hover{
+      color:rgb(131, 68, 189)
+  }
+   a img{
+      margin: 20px;
+  }
